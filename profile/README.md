@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Welcome to the main page for Ennuigo, an organization dedictaed to providing the highest-quality insights and education around the North American natural gas market.
 <!--
 
 **Here are some ideas to get you started:**
